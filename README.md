@@ -21,9 +21,8 @@ The formulae can be found in Lloyd Nelson's original paper which explained how t
 
 An example showing what the T-Chart will look like if plotted using this R syntax.
 
+![3_T-Chart Example](https://github.com/Epidemiology22/R-Syntax-for-Nelson-1994-T-Chart-for-Adverse-Rare-Events/assets/129181130/ea208166-a8fa-4d09-8b20-f16edc9a3055)
 
-
-![3_T-Chart Example](https://github.com/Epidemiology22/R-Syntax-for--Nelson-1994-T-Chart/assets/129181130/c4290c92-d27e-450f-b49f-c688962e251c)
 
 An example showing the T-Chart with data points above the Centreline (green) and below the Centreline (orange) in colour.
 
